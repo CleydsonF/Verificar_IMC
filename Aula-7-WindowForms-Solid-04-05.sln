@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-7.0-WindowForms-Solid-04-05", "CsharpIntermediario-04-05\Aula-7.0-WindowForms-Solid-04-05.csproj", "{A65FD6DE-2EB8-4538-834F-8DD6D82C3808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-7.1-WindowForms-ExercicioIMC-04-05", "Aula-7.1-WindowForms-ExercicioIMC-04-05\Aula-7.1-WindowForms-ExercicioIMC-04-05.csproj", "{256F8961-98F3-4C0F-9953-C8FB4B0F4C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65FD6DE-2EB8-4538-834F-8DD6D82C3808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65FD6DE-2EB8-4538-834F-8DD6D82C3808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65FD6DE-2EB8-4538-834F-8DD6D82C3808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65FD6DE-2EB8-4538-834F-8DD6D82C3808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256F8961-98F3-4C0F-9953-C8FB4B0F4C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256F8961-98F3-4C0F-9953-C8FB4B0F4C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256F8961-98F3-4C0F-9953-C8FB4B0F4C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256F8961-98F3-4C0F-9953-C8FB4B0F4C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F9300E8-AA7A-4E34-899B-2C3297D62AC9}
+	EndGlobalSection
+EndGlobal

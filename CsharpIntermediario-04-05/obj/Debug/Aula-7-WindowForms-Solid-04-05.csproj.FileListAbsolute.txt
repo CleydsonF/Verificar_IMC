@@ -1,0 +1,11 @@
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\bin\Debug\CsharpIntermediario-04-05.exe.config
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\bin\Debug\CsharpIntermediario-04-05.exe
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\bin\Debug\CsharpIntermediario-04-05.pdb
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\Aula-7-WindowForms-Solid-04-05.csproj.AssemblyReference.cache
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\Aula-7-WindowForms-Solid-04-05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\CsharpIntermediario_04_05.Form1.resources
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\CsharpIntermediario_04_05.Properties.Resources.resources
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\Aula-7-WindowForms-Solid-04-05.csproj.GenerateResource.cache
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\Aula-7-WindowForms-Solid-04-05.csproj.CoreCompileInputs.cache
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\CsharpIntermediario-04-05.exe
+C:\Users\Cleydson Fernando\source\repos\Aula-7-Delegate-Revisao-04-05\CsharpIntermediario-04-05\obj\Debug\CsharpIntermediario-04-05.pdb
